@@ -1,0 +1,4 @@
+for x in *.txt; do mv "$x" "${x%.mp4}.mp4"; done
+
+#Please follow on Instagram and Subscribe my chanel for more tips and real life Linux tricks.
+#Thank you :)
